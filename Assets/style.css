@@ -1,0 +1,8 @@
+.image{
+    height: auto;
+    width: auto;
+}
+body {
+    background-image: url("Images/trees.png");
+    
+}
